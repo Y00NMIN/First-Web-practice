@@ -1,0 +1,218 @@
+.nav{
+        height : 65px;
+        border-bottom: 1px solid gray;
+        display: flex;
+        align-item: center;
+        margin-top: 20px;
+        margin-left: 120px;
+        margin-right: 120px;
+
+      }
+
+      .nav-right-items{
+        display: flex;
+        margin-left:auto;
+        
+      }
+
+      .nav-left-items{
+        font-size: 30px;
+        font-weight: 400;
+        margin-left:20px;
+        
+      }
+
+      .nav-item{
+        margin-left: 20px;
+      }
+
+      .company-name{
+        margin-left: 20px;
+      }
+
+      .title{
+        line-height: 1.2;
+        text-align:center;
+        font-size: calc(1.475rem + 2.7vw);
+        font-weight: 300;
+      }
+
+      .subtitle{
+        text-align:center;
+        font-size: 1.25rem!important;
+        font-weight:120px;
+        color: gray;
+      }
+
+      .main{
+        width: 1000px;
+        margin: 0 auto;
+        margin-top:60px;
+      }
+
+      .prices {
+        display: flex;
+      }
+
+      .price-item{
+        width: 300px;
+        height: 350px;
+        border: 1px solid black;
+        margin: 20px;
+        border-radius: 4px;
+        text-align:center;
+      }
+
+      .price-item-title{
+        text-align:center;
+        font-size: 1.5rem;
+        background : rgba(0,0,0,.03);
+        height: 53px;
+        line-heiht:53px;
+        border-bottom:1px solid black;
+      }
+
+      .price-item-price{
+       
+        font-size: 2.5rem;
+        font-weight: bold;
+        padding:20px;
+      }
+
+      .price-item-detail{
+        text-align:center;
+        font-size: 16px;
+      }
+
+      .price-item-button{
+        padding: .7rem 3rem;
+       font-size: 1.25rem;
+       border-radius: .4rem;
+        color: #0d6efd;
+        border-color: #0d6efd;
+        margin-top :40px;
+      }
+
+      .price-item-buttons{
+        padding: .7rem 3rem;
+        font-size: 1.25rem;
+        border-radius: .4rem;
+        color: #fff;
+        background-color: #0d6efd;
+        border-color: #0d6efd;
+        margin-top :40px;
+      }
+
+      .submain{
+        margin-top :20px;
+        text-align:center;
+        font-size: calc(0.7rem + 2.7vw);
+        font-weight: 300;
+      }
+
+      .submain-list-title{
+        height : 40px;
+        border-bottom: 1px solid black;
+        display: flex;
+        margin-top: 40px;
+        text-align:center!important;
+        margin-left: 120px;
+        margin-right: 120px;
+      }
+
+      .submain-list-title-list{
+        margin-left:210px;
+        font-size: 18px;
+        font-weight: bold;
+        word-spacing:40px;
+        display: flex;
+      
+      }
+
+      .submain-list-detail{
+        font-weight: bold;
+        font-size: 18px;
+        margin-left: 120px;
+        margin-right: 120px;
+
+      }
+
+      .submain-list-detail-1{
+        border-bottom: 1px solid gray;
+        height: 40px;
+        margin-top: 20px;
+        display:flex;
+
+      }
+      .submain-list-detail-1-1{
+        border-bottom: 1px solid black;
+        height: 40px;
+        margin-top: 20px;
+        display:flex;
+
+      }
+      .submain-list-detail-2{
+        border-bottom: 1px solid gray;
+        height: 40px;
+        margin-top: 20px;
+        display:flex;
+        
+      }
+
+      img{
+        position: absolute;
+        left:100px;
+        top: 20px;
+        
+      }
+  
+     .public-check1{
+       margin-left:160px;
+      }
+
+      .public-check2{
+       margin-left:220px;
+      }
+     
+     .public-check3{
+       margin-left:260px;
+      }
+
+      .private-check1{
+       margin-left:400px;
+      }
+     
+     .private-check2{
+       margin-left:260px;
+      }
+     
+      .permissions-check1{
+       margin-left:115px;
+      }
+
+      .permissions-check2{
+       margin-left:220px;
+      }
+     
+     .permissions-check3{
+       margin-left:260px;
+      }
+
+     .sharing-check1{
+       margin-left:400px;
+      }
+     
+     .sharing-check2{
+       margin-left:260px;
+      }
+     
+     .Unlimited-members-check1{
+       margin-left:300px;
+      }
+     
+     .Unlimited-members-check2{
+       margin-left:260px;
+      }
+      .Extra-security-check1{
+        margin-left:640px;
+      }
